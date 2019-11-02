@@ -8,3 +8,5 @@ Using searchbar we can find out github user and their information such as public
 - Async await
 - fetch
 - Github API
+
+Live at ![Click Here](https://mfsiat.github.io/GitHub-User-Finder/index.html)
